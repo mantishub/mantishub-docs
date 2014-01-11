@@ -16,11 +16,3 @@ Contents:
    plans
    project_management
    user_management
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
-
