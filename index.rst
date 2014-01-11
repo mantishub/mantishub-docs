@@ -8,9 +8,6 @@ MantisHub Documentation
 
 Contents:
 
-This is the beginning of MantisHub user manual.
-Sample change to the manual.
-
 .. toctree::
    :maxdepth: 2
 
