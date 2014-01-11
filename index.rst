@@ -14,6 +14,7 @@ Contents:
    issue_management
    mantistouch
    plans
+   project_management
    user_management
 
 Indices and tables
