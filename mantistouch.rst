@@ -73,7 +73,7 @@ Here are the steps to add a home screen icon, similar to the ones for native app
 
 - Go to Settings, Safari, and set "Accept Cookies" to "Always".
 - Open Safari and browse to https://foo.mantishub.com/m/ (with foo being the instance name)
-- Click the "share" arrow button and click "Add to Home Screen", then confirm "MantisTouch" name.
+- Click the "share" arrow button and click "Add to Home Screen", then confirm "MantisHub" name.
 - Close Safari and run MantisTouch from the home page icon.
 
 Setting up on Android
@@ -81,4 +81,4 @@ Setting up on Android
 
 - Open the standard Android browser (not chrome, it is called 'Internet').
 - Go to https://foo.mantishub.com/m/
-- Click Menu, then 'Add Shortcut to Homepage'
+- Click Menu, then 'Add Shortcut to Homepage' and name it "MantisHub".
