@@ -9,17 +9,17 @@ Projects can be managed via going to "Manage" -> "Manage Projects" page.
 Each project is listed along with a link to manage that specific project.
 The specific project pages allow the user to change:
 
-- Name - the project short name, avoid white spaces.
-- Description - the descriptive name of the project.
-- Status - the maturity or development status of the project.
+- **Name** - the project short name, avoid white spaces.
+- **Description** - the descriptive name of the project.
+- **Status** - the maturity or development status of the project.
   This is just informational and doesn't affect MantisHub functionality.
-- Type - whether the project is public or private.
+- **Type** - whether the project is public or private.
   Private projects are only visible to users who are assigned to it or users who have the access level to automatically have access to private projects (eg: administrators).
-- Categories - these are used to sub-divide the issues stored in the system.
-- Versions - these are used to create ChangeLog reports and can be used to filter issues.
+- **Categories** - these are used to sub-divide the issues stored in the system.
+- **Versions** - these are used to create ChangeLog reports and can be used to filter issues.
   They are used for both the Found In and Fixed In versions.
-- Custom Fields
-- Users - for private projects, it provides the list of users that can access the project and their access level.
+- **Custom Fields** - custom fields that are specific to the project.
+- **Users** - for private projects, it provides the list of users that can access the project and their access level.
 
 Changelog
 #########
