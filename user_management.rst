@@ -132,9 +132,9 @@ The users access to a private project can be lower or higher than their global a
 Following are the access levels in MantisHub and their typical usage.
 Note that each level has all the priviledges of the ones before it.
 
-- VIEWER - login and view issues.
-- REPORTER - report issues and comments on issues.
-- UPDATER - a user who can update issues.
-- DEVELOPER - a team member who is able to view private issues, take ownership of issues and view reports.
-- MANAGER - ability to manage a project including project details, who has access to it, categories, versions, and custom fields.
-- ADMINISTRATOR - all administration tasks and communication with MantisHub support team.
+- **Viewer** - login and view issues.
+- **Reporter** - report issues and comments on issues.
+- **Updater** - a user who can update issues.
+- **Developer** - a team member who is able to view private issues, take ownership of issues and view reports.
+- **Manager** - ability to manage a project including project details, who has access to it, categories, versions, and custom fields.
+- **Administrator** - all administration tasks and communication with MantisHub support team.
