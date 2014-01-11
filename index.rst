@@ -14,6 +14,7 @@ Sample change to the manual.
 .. toctree::
    :maxdepth: 2
 
+   plans
    mantistouch
    user_management
 
