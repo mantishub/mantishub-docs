@@ -11,7 +11,7 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
-   issue_lifecycle
+   issue_management
    mantistouch
    plans
    user_management

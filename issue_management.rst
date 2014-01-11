@@ -1,9 +1,9 @@
-===============
-Issue Lifecycle
-===============
+================
+Issue Management
+================
 
-Issue Statuses
-##############
+Issue Lifecycle
+###############
 
 An important part of issue tracking is to classify issues as per their status.
 MantisHub assumes that an issue can be in one of three stages: opened, resolved and closed.
@@ -36,4 +36,3 @@ Following is the explanation of what each status means:
 - **Closed** - This status reflects that the issue is completely closed and no further actions are required on it.
   It also typically hides the issue from the View Issues page.
   Some teams use "closed" to reflect sign-off by the reporter and others use it to reflect the fact that the fix has been released to customers.
-
