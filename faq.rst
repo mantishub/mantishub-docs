@@ -38,3 +38,10 @@ How do I get support?
 MantisHub provides support for trial and paid customers.
 Contact MantisHub team via the in-app messaging using the "?" box on the bottom right of the screen when logged in as administrator.
 You can also email us at support@mantishub.com from your administrator's email account.
+
+How do I get my data?
+---------------------
+
+MantisHub performs daily backups of all free and paid MantisHub instances.
+Paid customers can contact support to get latest backup of their data.
+The data will include the database dump and attachments.
