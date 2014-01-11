@@ -31,3 +31,10 @@ The web service end point for instance 'foo' will be:
 	https://foo.mantishub.com/api/soap/mantisconnect.php
 
 There is also .NET client library available through http://www.futureware.biz/mantisconnect/
+
+How do I get support?
+---------------------
+
+MantisHub provides support for trial and paid customers.
+Contact MantisHub team via the in-app messaging using the "?" box on the bottom right of the screen when logged in as administrator.
+You can also email us at support@mantishub.com from your administrator's email account.
