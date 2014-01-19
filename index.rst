@@ -14,6 +14,7 @@ Contents:
    faq
    issue_management
    mantistouch
+   migrations
    plans
    project_management
    user_management
