@@ -1,3 +1,5 @@
+.. _migrations:
+
 ======================
 Migrating to MantisHub
 ======================

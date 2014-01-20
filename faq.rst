@@ -5,17 +5,7 @@ Frequently Asked Questions
 Is it possible to migrate my MantisBT instance to MantisHub?
 ------------------------------------------------------------
 
-Yes, we provide consulting services to migrate your existing instance if it meets the following criteria:
-
-- Uses MySQL as the backend database
-- No code customization
-- No dependency on plugins
-- Is based on MantisBT v1.2.x or older (i.e. a stable release).
-
-If you would like to migrate your instance contact MantisHub team with the following information:
-
-- What MantisBT version are you currently running?
-- Where is your MantisBT currently hosted?
+Yes, see :ref:`migrations` for more details.
 
 How can I access MantisHub issues from my tools?
 ------------------------------------------------
