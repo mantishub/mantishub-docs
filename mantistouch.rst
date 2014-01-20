@@ -11,6 +11,13 @@ Users can also access go their MantisTouch by going to the following url: (e.g. 
 
 	https://foo.mantishub.com/m
 
+Screenshots
+###########
+
+.. image:: images/mt_login_page.*
+.. image:: images/mt_dashboard_page.*
+.. image:: images/mt_issues_page.*
+
 Why MantisTouch?
 ################
 
