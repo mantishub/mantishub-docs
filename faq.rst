@@ -35,3 +35,11 @@ How do I get my data?
 MantisHub performs daily backups of all free and paid MantisHub instances.
 Paid customers can contact support to get latest backup of their data.
 The data will include the database dump and attachments.
+
+How do I add payment method?
+----------------------------
+
+All you need to do is setup your payment method in your account. After the 30-day trail is over, you will be automatically charged on a monthly basis. To do that
+
+- Go to MantisHub.com and click on "Log in" button in the navbar or browse directly to https://accounts.mantishub.com/.
+- Click on "Add payment method" and complete the form.
