@@ -59,3 +59,43 @@ Allow anonymous access
 
 Paid users can enable anonymous access to their MantisHub.
 This can be done by emailing the request to support@mantishub.com.
+
+-----------------------------------
+Statuses, Priorities and Severities
+-----------------------------------
+
+How to customize issue statuses?
+--------------------------------
+
+Paid users can customize issue statuses.
+This can be done by emailing the request to support@mantishub.com.
+Please include answers to the following questions:
+
+- HTML color to use for it. - Use http://www.w3schools.com/tags/ref_colorpicker.asp for picking new colors and compare against the legend on the View Issues page to make sure the colors are not to close to other statuses.
+- Status name in English and each other language you care about (e.g. ’tested’ for English). Choose from list of languages under "My Account - Preferences - Language".
+- When changing status, there are three strings used - they are also needed in English + each language you care about. 
+	- The title for the form requesting change of status - e.g. ‘Mark Issue as Tested’. 
+	- The button on the form request change of status - e.g. ‘Tested’ 
+	- The action description in the email notification - e.g. ‘The following issue has been TESTED.’.
+- What is the order of the statuses?
+
+How to customize issue priorities?
+----------------------------------
+
+Paid users can customize issue priorities.
+This can be done by emailing the request to support@mantishub.com.
+Please include answers to the following questions:
+
+- Priority name in English and each other language you care about (e.g. ’urgent’ for English). Choose from list of languages under "My Account - Preferences - Language".
+- What is the order of the priorities?  From lowest to highest.
+
+How to customize issue severities?
+----------------------------------
+
+Paid users can customize issue severities.
+This can be done by emailing the request to support@mantishub.com.
+Please include answers to the following questions:
+
+- Severity name in English and each other language you care about (e.g. ’blocking’ for English). Choose from list of languages under "My Account - Preferences - Language".
+- What is the order of the severities?  From lowest to highest.
+
