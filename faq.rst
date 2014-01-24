@@ -43,3 +43,12 @@ All you need to do is setup your payment method in your account. After the 30-da
 
 - Go to MantisHub.com and click on "Log in" button in the navbar or browse directly to https://accounts.mantishub.com/.
 - Click on "Add payment method" and complete the form.
+
+How to create a project?
+------------------------
+
+To start reporting issues, you need to create a project first.
+This can be done as follows:
+
+- Login as an administrator - If there are no project created yet, MantisHub will redirect to the create project page.
+- If not redirected, navigate to project creation page by clicking on "Manage - Manage Projects" and click on "Create New Project" button next to the "Projects" title.
