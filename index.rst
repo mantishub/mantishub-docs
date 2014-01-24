@@ -18,3 +18,4 @@ Contents:
    plans
    project_management
    user_management
+   customization
