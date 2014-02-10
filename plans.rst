@@ -25,6 +25,7 @@ The silver plans adds the following features:
 
 - MantisTouch which provides mobile optimized web app.
 - Web API - a SOAP web service for accessing MantisHub.
+- Priority support
 - 5GB of storage
 
 Gold
