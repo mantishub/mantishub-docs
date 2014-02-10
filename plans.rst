@@ -32,7 +32,6 @@ Gold
 
 The goal plans add the following features:
 
-- Custom Domains - providing the ability to access your MantisHub via your own domain rather than a sub-domain of mantishub.com.
 - 10GB of storage
 
 Switching Plans
