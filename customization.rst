@@ -99,3 +99,52 @@ Please include answers to the following questions:
 - Severity name in English and each other language you care about (e.g. ’blocking’ for English). Choose from list of languages under "My Account - Preferences - Language".
 - What is the order of the severities?  From lowest to highest.
 
+------
+Fields
+------
+
+Enable 'due date' field
+-----------------------
+
+You should be able to achieve that via the "Manage - Manage Configuration" page. You need to add the following setting: ::
+
+	All Projects, All Users, due_date_update_threshold, integer, 55
+	All Projects, All Users, due_date_view_threshold, integer, 10
+	All Projects, All Users, view_issues_page_columns, complex, array('selection', 'edit', 'priority', 'id', 'sponsorship_total', 'bugnotes_count', 'attachment_count', 'category_id', 'severity', 'status', 'last_updated', 'due_date', 'summary')
+
+
+The 10 and 55 represent viewer and developer from the access levels table.
+You can replace with whatever access levels that make sense for your requirement.
+
+---------------------
+Reference information
+---------------------
+
+Access Levels
+-------------
+
+====   ============
+Code   Access Level
+====   ============
+10     viewer
+25     reporter
+40     updater
+55     developer
+70     manager
+90     administrator
+====   ============
+
+Statuses
+--------
+
+====   ============
+Code   Status
+====   ============
+10     new
+20     feedback
+30     acknowledged
+40     confirmed
+50     assigned
+80     resolved
+90     closed
+====   ============
