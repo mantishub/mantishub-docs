@@ -116,6 +116,24 @@ You should be able to achieve that via the "Manage - Manage Configuration" page.
 The 10 and 55 represent viewer and developer from the access levels table.
 You can replace with whatever access levels that make sense for your requirement.
 
+-------------
+Custom Fields
+-------------
+
+Adding Custom Fields
+--------------------
+
+The process of adding custom fields includes defining the custom field and then linking it to the appropriate projects.
+To create a custom field click "Manage - Manage Custom Fields" then enter field name, click "New Custom Field" and edit the custom field definition.
+For custom field types that allow selection from a set of values use the '|' character to separate the different values.
+Make sure to check the boxes specifying the pages on which the custom field should appear and is required.
+
+The next step is to link the custom field to the appropriate project.
+This can be done by click the custom field definition, scroll to bottom of page, then select the projects and click "Link Custom Fields".
+The sequence number is used to determine the relative order of custom fields to each other.
+Smaller sequence numbers are shown first.
+It is also possible to link, unlink or re-order custom fields from project page (Manage - Manage Projects - click project name).
+
 ---------------------
 Reference information
 ---------------------
