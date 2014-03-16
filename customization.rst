@@ -10,8 +10,11 @@ User Interface
 
 Replace MantisHub logo with your company logo?
 ----------------------------------------------
-Paying customers can replace MantisHub logo with their own company logo by emailing a png version of their logo to support@mantishub.com along with the url to their instance.
-Our support staff would promptly apply the change.
+Administrators can replace MantisHub logo with their own company logo.
+The logo must be in png format with size smaller than or equal to 50K.
+The logo will be resized to have a height of no more than 80 pixels.
+Go to Manage - Manage Configuration - Logo and upload your logo from there.
+If the logo doesn't update right away, click the browser refresh button.
 
 Enabling use of real names
 --------------------------
