@@ -39,10 +39,12 @@ The data will include the database dump and attachments.
 How do I add payment method?
 ----------------------------
 
-All you need to do is setup your payment method in your account. After the 30-day trail is over, you will be automatically charged on a monthly basis. To do that
+Adding your payment method to an account and converting it to a paid account will guarantee no interruption to your use of MantisHub and will enable the daily backups for your data.
 
 - Go to MantisHub.com and click on "Log in" button in the navbar or browse directly to https://accounts.mantishub.com/.
+- Use the email address and password you used during signing up for MantisHub.
 - Click on "Add payment method" and complete the form.
+- Email 'support@mantishub.com' request converting your account to paid or use messaging '?' icon within MantisHub to request the same.
 
 How to create a project?
 ------------------------
