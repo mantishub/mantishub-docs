@@ -33,8 +33,9 @@ How do I get my data?
 ---------------------
 
 MantisHub performs daily backups of all free and paid MantisHub instances.
-Paid customers can contact support to get latest backup of their data.
-The data will include the database dump and attachments.
+Customers can also download backups on demand via MantisHub interface.
+Login as an administrator and go to Manage - Backup, request a backup, and download it.
+The backup will include mysql database dump, configuration files, and attachments.
 
 How do I add payment method?
 ----------------------------
