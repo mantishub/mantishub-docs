@@ -10,39 +10,9 @@ Monthly vs Annual
 
 Based on popular demand, we now offer annual plans providing the convenience of one bill per year.
 The annual plan rate is 11 times the monthly plan with one month free.
-Note that the annual plan offers no refunds in case of cancellation.
+Annual plans provide the opportunity to lock today's prices for the next 12 months, but offers no refunds on cancellation.
 To switch to annual plan, login to the control panel from mantishub.com, click on drop down on top right, My Account, click on drop down arrow next to Edit, select Change Plan and select the desired plan.
 The change will take effect right away and the account will be charged appropriately in the next billing date.
-
-Bronze
-######
-
-The bronze feature includes the following features:
-
-- Unlimited issues
-- Unlimited users
-- Unlimited projects
-- SSL Enabled
-- Email Support
-- Daily Backups
-- 1GB of storage
-
-Silver
-######
-
-The silver plans adds the following features:
-
-- MantisTouch which provides mobile optimized web app.
-- Web API - a SOAP web service for accessing MantisHub.
-- Priority support
-- 5GB of storage
-
-Gold
-####
-
-The goal plans add the following features:
-
-- 10GB of storage
 
 Switching Plans
 ###############
