@@ -75,7 +75,7 @@ Administrators can customize the default columns for all users via: Manage - Man
 User Override Columns
 ---------------------
 
-Users can override that based on their preference via:  Current user: My Account - Manage Columns.
+Users can override that based on their preference via: My Account - Manage Columns.
 
 -----------------------------------
 Statuses, Priorities and Severities
