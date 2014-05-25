@@ -16,6 +16,7 @@ Contents:
    mantistouch
    migrations
    plans
+   importing_data
    project_management
    user_management
    customization
