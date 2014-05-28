@@ -36,3 +36,13 @@ Following is the explanation of what each status means:
 - **Closed** - This status reflects that the issue is completely closed and no further actions are required on it.
   It also typically hides the issue from the View Issues page.
   Some teams use "closed" to reflect sign-off by the reporter and others use it to reflect the fact that the fix has been released to customers.
+
+Reporting an Issue
+##################
+
+Once a project has been defined, issues can be reported against it by users who have access level REPORTER or above.
+Following are the steps:
+
+- In case there is more than one project, make sure the appropriate project is selected at the top right of the screen.
+- Enter the issue details -- category, summary and description fields are mandatory.
+- Submit the issue.
