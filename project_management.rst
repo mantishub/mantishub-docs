@@ -13,13 +13,26 @@ The specific project pages allow the user to change:
 - **Description** - the descriptive name of the project.
 - **Status** - the maturity or development status of the project.
   This is just informational and doesn't affect MantisHub functionality.
-- **Type** - whether the project is public or private.
-  Private projects are only visible to users who are assigned to it or users who have the access level to automatically have access to private projects (eg: administrators).
+- **View Status** - whether the project is public or private.
+  Private projects are only visible to users who are assigned to it or users who have the access level to automatically have access to private projects (i.e.: administrators).
 - **Categories** - these are used to sub-divide the issues stored in the system.
 - **Versions** - these are used to create ChangeLog reports and can be used to filter issues.
   They are used for both the Found In and Fixed In versions.
 - **Custom Fields** - custom fields that are specific to the project.
 - **Users** - for private projects, it provides the list of users that can access the project and their access level.
+
+Creating a Project
+##################
+
+MantisHub supports multi-projects, but requires at least one to be created.
+Once there is more than one enabled project, the project selector will be visible at the top right corner.
+Following are the steps to create a project:
+
+- Select 'Manage'
+- Select 'Manage Projects'
+- Select 'Create New Project' button.
+- Provide the project name, status, view status, and description.  See explanation of these fields in project configuraiton section.
+- Click "Add Project" button.
 
 Changelog
 #########
