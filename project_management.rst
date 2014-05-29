@@ -49,6 +49,8 @@ Note that it is possible to set the 'fixed in version' for multiple issues using
 This option is only available when the selected project is not 'All Projects'.
 Once a version is marked as obsolete, it is now longer included in the change log.
 
+If the version related fields don't show up on the issue pages, then it is likely that there are no versions defined for the project.
+
 Roadmap
 #######
 
@@ -66,3 +68,5 @@ For information about such releases, the change log feature should be used.
 For an issue to be shown on the roadmap, it has to have the target version set.
 It does not matter whether the feature is resolved or not.
 Resolved features will be decorated with a strikethrough and will be counted as done.
+
+If the version related fields don't show up on the issue pages, then it is likely that there are no versions defined for the project.
