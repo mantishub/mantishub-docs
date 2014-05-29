@@ -46,3 +46,12 @@ Following are the steps:
 - In case there is more than one project, make sure the appropriate project is selected at the top right of the screen.
 - Enter the issue details -- category, summary and description fields are mandatory.
 - Submit the issue.
+
+Attaching Files
+###############
+
+MantisHub supports attaching multiple documents (of max size 25MB each) to issues.
+Files can be attached as part of reporting a new issue by clicking on the "Choose File" button and selecting the file via the open file dialog.
+Files can also be attached later on from the issue view page via the "Upload File" section by choosing the file and clicking "Upload File".
+Attachments that are smaller than a configured size threshold (default 256KB) and of type images or text are previewed inline when viewing the issue.
+Other attachments are only downloaded or opened when clicked by the user.
