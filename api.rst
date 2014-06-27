@@ -13,7 +13,7 @@ WSDL and Endpoint
 Here is a sample instance WSDL definition:
 https://mantistouch.mantishub.com/api/soap/mantisconnect.php?wsdl
 
-To access the target instance replace the "mantistouch" in the URL above with the instance name.
+To access the target instance replace the "mantistouch" in the URL above with the instance name.  Note that API is not available for Bronze plan.
 
 API Version
 -----------
@@ -115,3 +115,7 @@ Users
 - mc_user_pref_get_pref - gets user preferences
 - mc_user_profiles_get_all - gets environment profiles associated with user.
 
+Client Libraries
+----------------
+
+- C# - MantisConnect @ http://www.futureware.biz/mantisconnect/
