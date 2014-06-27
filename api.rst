@@ -5,7 +5,7 @@ API
 Overview
 --------
 
-MantisHub offers a SOAP webservice API.  The end point for a MantisHub account instances is (replace 'instance' :
+MantisHub offers a SOAP webservice API that allows remotely accessing MantisHub from your language of choice.
 
 WSDL and Endpoint
 -----------------
