@@ -47,11 +47,3 @@ Adding your payment method to an account and converting it to a paid account wil
 - Click on "Add payment method" and complete the form.
 - Email 'support@mantishub.com' requesting to convert your account to paid or use messaging '?' icon within MantisHub to request the same.
 
-How to create a project?
-------------------------
-
-To start reporting issues, you need to create a project first.
-This can be done as follows:
-
-- Login as an administrator - If there are no project created yet, MantisHub will redirect to the create project page.
-- If not redirected, navigate to project creation page by clicking on "Manage - Manage Projects" and click on "Create New Project" button next to the "Projects" title.

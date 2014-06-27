@@ -28,6 +28,7 @@ MantisHub supports multi-projects, but requires at least one to be created.
 Once there is more than one enabled project, the project selector will be visible at the top right corner.
 Following are the steps to create a project:
 
+- Login as administrator
 - Select 'Manage'
 - Select 'Manage Projects'
 - Select 'Create New Project' button.
