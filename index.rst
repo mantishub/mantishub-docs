@@ -20,3 +20,4 @@ Contents:
    project_management
    user_management
    customization
+   api
