@@ -34,13 +34,9 @@ What is the process for migration?
 Preparing data for Migration
 ############################
 
-- If your MantisBT instance is not on MantisBT v1.2.x, then upgrade to 1.2.x.
-- Set $g_absolute_path_default_upload_folder in config_inc.php to point to target upload folder.
-- Go to each project settings page and make sure it has the upload folder set.
-- Export database attachments to disk via http://www.example.com/mantis/admin/system_utils.php
 - Dump database "mysqldump -u [database_user] -p[database_password] [database_name] > [mysql_dump_file_path]".  Replace parameters between square brackets with real values.
-- Create a folder on OneDrive, GoogleDrive, or Dropbox and share it with victor@mantishub.com - don't require signup.
+- Create a OneDrive, Google Drive or Dropbox folder.
 - Copy config files like config_inc.php, custom_strings_inc.php (optional), custom_constants_inc.php (optional), custom_relationships_inc.php (optional) to the shared folder.
 - Copy a zipped version of the mysql dump to the shared folder.
-- Copy a zipped version of all attachments to the shared folder.
-- Contact support and we will arrange your migration.  We offer migrations over weekends to avoid downtime for your users.
+- Copy a zipped version of all attachments to the shared folder (if disk attachments are used).
+- Contact support and we will arrange your migration and provide email to share folder with.  We offer migrations over weekends to avoid downtime for your users.
