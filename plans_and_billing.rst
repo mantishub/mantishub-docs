@@ -36,7 +36,7 @@ supported.
 
 At this point, we don't support invoicing or payment via checks.
 
-Follow are the steps to add your payment method:
+Following are the steps to add your payment method:
 
 - Login to MantisHub control panel at https://accounts.mantishub.com/
 - Click on the drop down arrow next your name at the top right corner.
@@ -50,8 +50,9 @@ Users won't be charged until their payment trial period expires.
 Security of Payment Method
 --------------------------
 
-MantisHub only handles the relationship with Paypal or Stripe.  These payment
-providers are the ones that store and secure the payment method details.
+MantisHub only handles the relationship with `Paypal <https://www.paypal.com/>`_
+or `Stripe <https://stripe.com>`_.  These payment providers are the ones that
+store and secure the payment method details.
 
 How to remove payment method?
 -----------------------------
