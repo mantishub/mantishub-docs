@@ -6,7 +6,7 @@ This section covers features that regular users (rather than administrators) can
 to customize their MantisHub experience.
 
 Setup your avatar
-#################
+-----------------
 
 MantisHub uses `Gravatar <http://gravatar.com/>`_ to retrieve user avatars based on
 a one way hash of their email address. To setup your avatar to show up in MantisHub,
@@ -24,3 +24,9 @@ Following are the steps to register on gravatar:
 - Select the image for the email address. Confirm the choice.
 - Go back to MantisHub and the avatar should start showing.
 
+Changing Language
+-----------------
+
+MantisHub comes in 50+ languages.  Users can customize their language preference
+by going to My Account - Preferences and switching the "language" from default 
+language to their preference, and then clicking "Update Prefs".
