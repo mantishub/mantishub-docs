@@ -20,5 +20,6 @@ Contents:
    importing_data
    project_management
    user_management
+   user_customizations
    customization
    api
