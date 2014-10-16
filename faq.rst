@@ -7,21 +7,6 @@ Is it possible to migrate my MantisBT instance to MantisHub?
 
 Yes, see :ref:`migrations` for more details.  For a limited time we offer migrations for free for customers who signup for MantisHub Gold annual plan.
 
-How can I access MantisHub issues from my tools?
-------------------------------------------------
-
-MantisHub provides a SOAP based webservice APIs that allows automation against MantisHub data.
-
-The WSDL definition can be found at
-
-	https://mantishub.mantishub.com/api/soap/mantisconnect.php?wsdl
-
-The web service end point for instance 'foo' will be:
-
-	https://foo.mantishub.com/api/soap/mantisconnect.php
-
-There is also .NET client library available through http://www.futureware.biz/mantisconnect/
-
 How do I get support?
 ---------------------
 
