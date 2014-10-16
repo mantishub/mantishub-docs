@@ -16,7 +16,7 @@ Contents:
    reporting_issues_via_email
    mantistouch
    migrations
-   plans
+   plans_and_billing
    importing_data
    project_management
    user_management
