@@ -67,15 +67,7 @@ This can be done by emailing the request to support@mantishub.com.
 Columns in View Issues, Csv Export and Excel Export
 ---------------------------------------------------
 
-Default Columns
----------------
-
 Administrators can customize the default columns for all users via: Manage - Manage Configuration - Manage Columns.
-
-User Override Columns
----------------------
-
-Users can override that based on their preference via: My Account - Manage Columns.
 
 -----------------------------------
 Statuses, Priorities and Severities

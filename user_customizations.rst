@@ -30,3 +30,9 @@ Changing Language
 MantisHub comes in 50+ languages.  Users can customize their language preference
 by going to My Account - Preferences and switching the "language" from default 
 language to their preference, and then clicking "Update Prefs".
+
+Customizing columns in View Issues, Csv Export and Excel Export
+---------------------------------------------------------------
+
+Users can override that based on their preference via: My Account - Manage Columns.
+
