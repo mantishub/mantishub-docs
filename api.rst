@@ -5,15 +5,17 @@ API
 Overview
 --------
 
-MantisHub offers a SOAP webservice API that allows remotely accessing MantisHub from your language of choice.
+MantisHub offers a SOAP webservice API that allows remotely accessing
+MantisHub from your language of choice.
 
 WSDL and Endpoint
 -----------------
 
 Here is a sample instance WSDL definition:
-https://mantistouch.mantishub.com/api/soap/mantisconnect.php?wsdl
+https://mantishub.mantishub.com/api/soap/mantisconnect.php?wsdl
 
-To access the target instance replace the "mantistouch" in the URL above with the instance name.  Note that API is not available for Bronze plan.
+To access the target instance replace the first "mantishub" in the URL above
+with the instance name.  Note that API is not available for Bronze plan.
 
 API Version
 -----------
