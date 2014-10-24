@@ -13,6 +13,7 @@ Contents:
 
    faq
    issue_management
+   filters
    reporting_issues_via_email
    mantistouch
    migrations
