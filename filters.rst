@@ -38,7 +38,8 @@ Semantic Values
 ---------------
 
 Filters often are based on static values like "v1" for a version.  However, in other cases
-it is desirable to use semantic values.  Such values include
+it is desirable to use semantic values.  Such values include:
+
 - [any] - don't filter on this field.
 - [none] - field must not be set (e.g. issue not assigned).
 - [myself] - issue assigned to the logged in user.
