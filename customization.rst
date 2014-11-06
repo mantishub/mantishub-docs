@@ -143,6 +143,22 @@ The sequence number is used to determine the relative order of custom fields to 
 Smaller sequence numbers are shown first.
 It is also possible to link, unlink or re-order custom fields from project page (Manage - Manage Projects - click project name).
 
+Possible Values
+---------------
+
+When dealing with custom fields of types that involve a list of options, the possible values field is
+designed to hold such list.  For example, the value A|B|C means a list containing the elements A, B and C.
+Custom fields types that expect such lists include: enumeration, checkbox, list, multi-selection list, and radio.
+
+Default Value
+-------------
+
+The default value field allows the custom field to have a default value that makes sense based on the field type.
+In most cases, it is a simple value like a string, a number, or a value from the list of possible values.  However,
+for the Date type, the possible values can include values like: {today}, {tomorrow}, {+3 days}, {-7 days},
+{next week}, {15 December 2013}, etc.  Basically any format undertood by php's strftime() method can be placed
+inside curly brackets and used here.  For more details see: http://us2.php.net/manual/en/function.strtotime.php
+
 ---------------------
 Reference information
 ---------------------
