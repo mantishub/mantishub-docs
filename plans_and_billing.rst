@@ -27,6 +27,9 @@ Users can switch plans at any time as follows:
 - Click on the plan you want to switch to.
 - Go to your MantisHub url -- the footer should reflect the new plan.
 
+
+.. _payment-methods:
+
 Payment Methods
 ---------------
 
