@@ -5,7 +5,7 @@ Frequently Asked Questions
 Is it possible to migrate my MantisBT instance to MantisHub?
 ------------------------------------------------------------
 
-Yes, see :ref:`migrations` for more details.  For a limited time we offer migrations for free for customers who signup for MantisHub Gold annual plan.
+Yes, see :ref:`migrations` for more details.
 
 How do I get support?
 ---------------------
