@@ -51,4 +51,10 @@ Configuration
 - **email_incoming_default_project** - If project name is not specified on the recipient email address, and this config has a value other than 0 (which is the default), then the issue is filed under the specified project id.  Otherwise, the default project for the reporter account is used.
   - The project ids can be retrieved from Manage - Manage Project - “project name” and then checking the id in the URL bar.
   - For example to set to project id 1, go to Manage - Manage Configuration and add: All Users, All Projects, email_incoming_default_project, integer, 1
+- **email_incoming_issue_reported_message** - Template for message sent when an incoming email is reported
+  successfully.  Supported parameters: {issue_id}.  For example, "Thanks for your email.  We've recorded the
+  issue with reference number {issue_id}."
+- **email_incoming_failed_message** - Template for messages sent when an incoming email is rejected.
+  Supported parameters: {error}.  For example, "{error}".
+
 
