@@ -2,7 +2,7 @@
 Plans and Billing
 =================
 
-MantisHub offers three plans named Bronze, Silver and Gold.
+MantisHub offers three plans named Bronze, Gold and Platinum.
 A 30 day free trial is available for all plans, no credit card required.
 
 Monthly vs Annual
