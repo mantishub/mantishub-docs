@@ -4,8 +4,6 @@ Reporting Issues via Email
 
 The goal of the feature is to provide the ability for users to email their issue reports which would then be automatically added to MantisHub.
 
-This feature is in preview and is available to accounts on the Platinum plan.
-
 Target Email Address
 --------------------
 
